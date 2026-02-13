@@ -1,0 +1,35 @@
+<Solution>
+  <Folder Name="/extras/" />
+  <Folder Name="/obrigatorios/" />
+  <Folder Name="/obrigatorios/anna/" />
+  <Folder Name="/obrigatorios/anna/exercicio_diagnostico/">
+    <Project Path="obrigatorios/anna/exercicio_diagnostico/exercicio2/exercicio2.csproj" />
+    <Project Path="obrigatorios/anna/exercicio_diagnostico/exercicios1/exercicios1.csproj" />
+  </Folder>
+  <Folder Name="/obrigatorios/anna/lista_exercicios/">
+    <Project Path="exercicio2/exercicio2.csproj" Id="97c12bb0-73f2-41b7-a06f-1603becf91fe" />
+    <Project Path="obrigatorios/anna/lista_exercicios/ConsoleApp1/exercicio4.csproj" Id="8d1a6fdf-5a6f-40f1-b0aa-0e571bba4bda" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio1/exercicio1.csproj" Id="9a12c3a7-2220-4e4b-ad7f-d44031a5b859" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio10/exercicio10.csproj" Id="6435d6cf-8069-410d-a41b-43ff94ccdfe0" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio3/exercicio3.csproj" Id="de148d70-a6d2-4b6f-b981-112ab70b7965" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio5/exercicio5.csproj" Id="44697c7d-d4c9-45f8-b3b3-eb4df026a94f" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio6/exercicio6.csproj" Id="1ac7d0be-d8bd-477a-bc92-6a0957c6d96f" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio7/exercicio7.csproj" Id="16dfa178-3d4a-481f-a0ff-6e3c12d7fe0a" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio8/exercicio8.csproj" Id="bf8dade5-cf56-440e-9d17-f4bacb497d6a" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio9/exercicio9.csproj" Id="93a9f522-2643-4ce9-9964-e1b8ffc920b1" />
+  </Folder>
+  <Folder Name="/obrigatorios/vitor/">
+    <Project Path="exercicio1/exercicio1.csproj" Id="d9b3aaae-93c2-405c-b689-fa954b26dd4f" />
+    <Project Path="exercicio10/exercicio10.csproj" Id="b339719a-5983-48cf-9ca1-fb97d87010a3" />
+    <Project Path="exercicio11/exercicio11.csproj" Id="838e3973-e7eb-437b-bc9d-da51af714ce0" />
+    <Project Path="exercicio2-matematica/exercicio2-matematica.csproj" Id="c4f1b41d-7c2b-45bc-8704-13d10d0a7801" />
+    <Project Path="exercicio2-matriz/exercicio2-matriz.csproj" Id="036cf40c-7cb6-4355-b8a0-6aa8a9f8cd98" />
+    <Project Path="exercicio3/exercicio3.csproj" Id="0ef75a23-418c-406a-9ac9-523c793d9912" />
+    <Project Path="exercicio4/exercicio4.csproj" Id="0b661557-d67d-488e-a1db-3bf9456f3c5b" />
+    <Project Path="exercicio5/exercicio5.csproj" Id="221fa248-5ceb-4aef-8ee0-7252e5dd12ad" />
+    <Project Path="exercicio6/exercicio6.csproj" Id="567c07a3-8b53-410d-a371-72f43291db03" />
+    <Project Path="exercicio7/exercicio7.csproj" Id="b2a8f4c4-12de-456b-bf2d-931d8c56f3c8" />
+    <Project Path="exercicio8/exercicio8.csproj" Id="d8b58aa4-1170-44b5-8fd1-da294c37df18" />
+    <Project Path="exercicio9/exercicio9.csproj" Id="bc899fbc-a497-45ae-995f-6ec0a5e90d96" />
+  </Folder>
+</Solution>

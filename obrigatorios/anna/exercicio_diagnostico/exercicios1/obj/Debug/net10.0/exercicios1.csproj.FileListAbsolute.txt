@@ -1,0 +1,4 @@
+C:\Users\Vitor Dalvi\source\repos\exercicios-dsa\obrigatorios\anna\exercicio_diagnostico\exercicios1\obj\Debug\net10.0\exercicios1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Dalvi\source\repos\exercicios-dsa\obrigatorios\anna\exercicio_diagnostico\exercicios1\obj\Debug\net10.0\exercicios1.AssemblyInfoInputs.cache
+C:\Users\Vitor Dalvi\source\repos\exercicios-dsa\obrigatorios\anna\exercicio_diagnostico\exercicios1\obj\Debug\net10.0\exercicios1.AssemblyInfo.cs
+C:\Users\Vitor Dalvi\source\repos\exercicios-dsa\obrigatorios\anna\exercicio_diagnostico\exercicios1\obj\Debug\net10.0\exercicios1.csproj.CoreCompileInputs.cache
