@@ -1,5 +1,8 @@
 <Solution>
-  <Folder Name="/extras/" />
+  <Folder Name="/extras/">
+    <Project Path="extras/exercicio12/exercicio12.csproj" Id="ac17936c-7f05-4ab7-bcb0-a512b1eb9a41" />
+    <Project Path="extras/exercicio13/exercicio13.csproj" Id="7347c68f-a312-408f-96ad-796b09e6f3b3" />
+  </Folder>
   <Folder Name="/obrigatorios/" />
   <Folder Name="/obrigatorios/anna/" />
   
