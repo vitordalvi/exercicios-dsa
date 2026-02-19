@@ -1,8 +1,4 @@
-﻿using System.Reflection.Metadata.Ecma335;
-
-namespace exercicio14.services
-{
-    public static class VectorService
+﻿    public static class VectorService
     {
         // gera um unico vetor com tamanho e valor maximo
         public static int[] GenerateVector(int length, int maxInt)
@@ -83,4 +79,4 @@ namespace exercicio14.services
             return result;
         }
     }
-}
+
