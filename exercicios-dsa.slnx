@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/extras/">
     <Project Path="extras/exercicio14/exercicio14.csproj" Id="7eea179b-a861-4edd-a6f9-8ea09df955f4" />
+    <Project Path="extras/exercicio15/exercicio15.csproj" Id="5fc23a9f-e4a5-4540-b41a-eb66b757e88a" />
     <Project Path="extras/exercicio12/exercicio12.csproj" Id="ac17936c-7f05-4ab7-bcb0-a512b1eb9a41" />
     <Project Path="extras/exercicio13/exercicio13.csproj" Id="7347c68f-a312-408f-96ad-796b09e6f3b3" />
   </Folder>
