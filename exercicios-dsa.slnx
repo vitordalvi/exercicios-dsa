@@ -1,9 +1,9 @@
 <Solution>
   <Folder Name="/extras/">
-    <Project Path="extras/exercicio14/exercicio14.csproj" Id="7eea179b-a861-4edd-a6f9-8ea09df955f4" />
-    <Project Path="extras/exercicio15/exercicio15.csproj" Id="5fc23a9f-e4a5-4540-b41a-eb66b757e88a" />
     <Project Path="extras/exercicio12/exercicio12.csproj" Id="ac17936c-7f05-4ab7-bcb0-a512b1eb9a41" />
     <Project Path="extras/exercicio13/exercicio13.csproj" Id="7347c68f-a312-408f-96ad-796b09e6f3b3" />
+    <Project Path="extras/exercicio14/exercicio14.csproj" Id="7eea179b-a861-4edd-a6f9-8ea09df955f4" />
+    <Project Path="extras/exercicio15/exercicio15.csproj" Id="5fc23a9f-e4a5-4540-b41a-eb66b757e88a" />
   </Folder>
   <Folder Name="/obrigatorios/" />
   <Folder Name="/obrigatorios/anna/" />
@@ -14,9 +14,14 @@
   </Folder>
 
   <Folder Name="/obrigatorios/anna/lista_exercicios/">
+    <Project Path="obrigatorios/anna/exercicio19/exercicio19.csproj" />
     <Project Path="obrigatorios/anna/lista_exercicios/exercicio1/exercicio1.csproj" />
     <Project Path="obrigatorios/anna/lista_exercicios/exercicio10/exercicio10.csproj" />
     <Project Path="obrigatorios/anna/lista_exercicios/exercicio2/exercicio2.csproj" Id="c20880bd-3be1-487c-b8c7-6315ad1daeb6" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio20/exercicio20.csproj" Id="dc43473c-0014-4373-aa23-da8632bd071d" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio21/exercicio21.csproj" Id="beb07b2a-4720-4c5d-a3b1-06db7ca79dcc" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio22/exercicio22.csproj" Id="186765b9-d989-4b1f-8eed-ad6542255aae" />
+    <Project Path="obrigatorios/anna/lista_exercicios/exercicio23/exercicio23.csproj" Id="e5f75db8-e5a6-4a56-82d0-857f95caf580" />
     <Project Path="obrigatorios/anna/lista_exercicios/exercicio3/exercicio3.csproj" />
     <Project Path="obrigatorios/anna/lista_exercicios/exercicio4/exercicio4.csproj" />
     <Project Path="obrigatorios/anna/lista_exercicios/exercicio5/exercicio5.csproj" />
